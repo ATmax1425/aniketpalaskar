@@ -26,3 +26,7 @@ font-family: 'Mukta', sans-serif;
     width: 50px;
     margin: 20px;
 }
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(80%);
+}
